@@ -1,4 +1,4 @@
-  ###   Hi there 👋 Eu sou o Guilherme
+  # Hi there 👋 Eu sou o Guilherme
 
 ------------------------------------
 
