@@ -8,11 +8,6 @@
 
 ⚡ A caminhada é longa, mas sei que logo conseguirei minha primeira oportunidade na área.
 
-<style>
-  h2{
-    text-align:center;
-  }
-</style>
 
 <h2>Skills</h2>
 </div>
