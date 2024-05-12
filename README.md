@@ -8,8 +8,9 @@
 
 ⚡ A caminhada é longa, mas sei que logo conseguirei minha primeira oportunidade na área.
 
+<h2 style="text-align: center;"></h2>
 </div>
-  <div style="display: inline_block"><p style="display: inline_block">Skills</p><hr style="display: inline_block"><br>
+  <div style="display: inline_block"><br>
     <img align="center" alt="C" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
     <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     <img align="center" alt="HTML5" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
