@@ -7,3 +7,5 @@
 🌱 Atualmente estou aprendendo tecnologias e linguagens *FRONT-END*.
 
 ⚡ A caminhada é longa, mas sei que logo conseguirei minha primeira oportunidade na área.
+
+<img src="(https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)">
