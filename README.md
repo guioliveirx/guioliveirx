@@ -9,7 +9,7 @@
 ⚡ A caminhada é longa, mas sei que logo conseguirei minha primeira oportunidade na área.
 
 
-<h3 style="text-align:center">Skills</h3>
+<h2>Skills</h2>
 </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="C" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
