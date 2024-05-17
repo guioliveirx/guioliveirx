@@ -32,4 +32,4 @@
   <a href="https://www.linkedin.com/in/guioliveira2002-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![snake gif](https://github.com/guioliveirx/guioliveirx/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/guioliveirx/guioliveirx/blob/output/github-contribution-grid-snake.svg)
