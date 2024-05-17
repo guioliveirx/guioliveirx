@@ -1,4 +1,6 @@
-  # Hi there 👋 Eu sou o Guilherme
+ <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Guilherme+Oliveira!;" />
+</h1>
 
 😄 Tenho 22 anos, moro na Bahia e sou graduando na área da Computação. Desde cedo tive o contato com a tecnológia e sempre me fascinei com tudo que ela proporciona. Hoje me encontro com grande vontade de me tornar um desenvolvedor *FULL-STACK.*
 
