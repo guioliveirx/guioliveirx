@@ -12,19 +12,17 @@
 
 ##
 
-<div>
+<div align="center">
+  <br>
   <a href="https://github.com/guioliveirx" target="_blank"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guioliveirx&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guioliveirx&layout=compact&lang_counts=16&theme=radical"/>
 </div>
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gui-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gui-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui Java-" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Rafa-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<div align="center" >
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,vscode,figma,github,git" />
 </div>
     
   ##
