@@ -2,13 +2,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Olá!+👋;+Sou+Guilherme+Oliveira!;" />
 </h1>
 
-😄 Tenho 22 anos, moro na Bahia e sou graduando na área da Computação. Desde cedo tive o contato com a tecnológia e sempre me fascinei com tudo que ela proporciona. Hoje me encontro com grande vontade de me tornar um desenvolvedor *FULL-STACK.*
+<div>
+   😄 Tenho 22 anos, moro na Bahia e sou graduando na área da Computação. Desde cedo tive o contato com a tecnológia e sempre me fascinei com tudo que ela proporciona. Hoje me encontro com grande vontade de me tornar um desenvolvedor <strong>FULL-STACK.</strong> <br>        <br>
+   🌱 Atualmente estou aprendendo tecnologias e linguagens <strong>FRONT-END.</strong><br> <br>
+      
+   ⚡ A caminhada é longa, mas sei que logo conseguirei minha primeira oportunidade na área.
 
-🌱 Atualmente estou aprendendo tecnologias e linguagens *FRONT-END*.
-
-⚡ A caminhada é longa, mas sei que logo conseguirei minha primeira oportunidade na área.
-
-📄 Visite meu site portfólio https://guioliveirx.github.io/Project-Portfolio/
+   📄 Visite meu site portfólio  <strong>https://guioliveirx.github.io/Project-Portfolio/</strong>
+</div>
 
 ##
 
