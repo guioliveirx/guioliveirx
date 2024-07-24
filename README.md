@@ -8,7 +8,7 @@
       
    ⚡ A caminhada é longa, mas sei que logo conseguirei minha primeira oportunidade na área.
 
-   📄 Visite meu site portfólio  <strong>https://guioliveirx.github.io/Portfolio-Project/</strong>
+   📄 Visite meu site portfólio  <strong>https://guioliveirx.github.io/Portfolio/</strong>
 
 
 ##
