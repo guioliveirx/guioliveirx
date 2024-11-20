@@ -53,9 +53,9 @@
 <div align="center" display="inline">
  <br>
   <a href="https://github.com/guioliveirx">
-    <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guioliveirx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="guioliveirx"/>
-    <img height="110em" src="https://github-readme-stats.vercel.app/api?username=guioliveirx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="guioliverx"/>
-    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=guioliveirx&&theme=tokyonight" alt="guioliveirx" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guioliveirx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="guioliveirx"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guioliveirx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="guioliverx"/>
+    <img height="270em" src="https://github-readme-streak-stats.herokuapp.com/?user=guioliveirx&&theme=tokyonight" alt="guioliveirx" />
   </a>
 </div>
 
