@@ -18,7 +18,7 @@
 
 ##
 
-<h3 align="left">Estatística:</h3>
+<h3 align="left">Estatísticas:</h3>
 <div align="center">
   <a href="https://github.com/guioliveirx" align="left">
     <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guioliveirx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="guioliveirx"/>
