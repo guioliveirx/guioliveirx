@@ -21,8 +21,8 @@
 <h3 align="left">Estatísticas:</h3>
 <div align="center">
   <a href="https://github.com/guioliveirx" align="left">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guioliveirx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="guioliveirx"/>
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=guioliveirx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="guioliverx"/>
+    <img height="185em" min-height="100em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guioliveirx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="guioliveirx"/>
+    <img height="185em" min-height="100em" src="https://github-readme-stats.vercel.app/api?username=guioliveirx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="guioliverx"/>
   </a>
 </div>
 
@@ -55,7 +55,7 @@
       <td><img height="40" src="https://skillicons.dev/icons?i=react,tailwind"/></td>
     </tr>
   </table>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="500px" width="400px" align="right">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="500px" width="400px" align="right">
 </div>
 <br>
 
