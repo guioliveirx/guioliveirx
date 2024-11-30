@@ -52,7 +52,7 @@
     </tr>
     <tr>
       <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Aprendendo:</td>
-      <td><img height="40" src="https://skillicons.dev/icons?i=react,tailwind"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap"/></td>
     </tr>
   </table>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="500px" width="400px" align="right">
