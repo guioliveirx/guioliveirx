@@ -34,11 +34,11 @@
   <table align="left">
     <tr>
       <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-      <td><img height="40" src="https://skillicons.dev/icons?i=php,java,nodejs,express,c"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=php,java,c,nodejs,express"/></td>
     </tr>
     <tr>
       <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-      <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,figma,md"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,figma,bootstrap"/></td>
     </tr>
     <tr>
       <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
@@ -46,7 +46,7 @@
     </tr>
     <tr>
       <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-      <td><img height="40" src="https://skillicons.dev/icons?i=vscode,apachenetbeans"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse"/></td>
     </tr>
     <tr>
       <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
@@ -54,7 +54,7 @@
     </tr>
     <tr>
       <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Aprendendo:</td>
-      <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=react"/></td>
     </tr>
   </table>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="500px" width="400px" align="right">
