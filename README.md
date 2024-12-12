@@ -34,30 +34,32 @@
 <div>
   <h3 align="left">Linguagens e ferramentas:</h3>
   <table align="left">
+<tbody>
     <tr>
-      <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+      <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</th>
       <td><img height="40" src="https://skillicons.dev/icons?i=php,java,c,nodejs,express"/></td>
     </tr>
     <tr>
-      <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+      <th style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</th>
       <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,figma,bootstrap"/></td>
     </tr>
     <tr>
-      <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+      <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</th>
       <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
     </tr>
     <tr>
-      <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
+      <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</th>
       <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse"/></td>
     </tr>
     <tr>
-      <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+      <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</th>
       <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
     </tr>
     <tr>
-      <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Aprendendo:</td>
+      <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Aprendendo:</th>
       <td><img height="40" src="https://skillicons.dev/icons?i=react,reactnative"/></td>
     </tr>
+  <tbody>
   </table>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="500px" width="400px" align="right">
 </div>
