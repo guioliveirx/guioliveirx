@@ -4,9 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Olá!+👋;+Sou+Guilherme+Oliveira!;" />
 </h1>
 
-- 😄 Fascinado pela tecnologia. Hoje me encontro com grande vontade de me tornar um desenvolvedor <strong>FULL-STACK.</strong>
-- 🌱 Atualmente estou aprendendo tecnologias e linguagens <strong>FRONT-END.</strong> <br>
-- ⚡ A caminhada é longa, mas sei que logo conseguirei minha primeira oportunidade na área.
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px"> Fascinado pela tecnologia. Hoje me encontro com grande vontade de me tornar um desenvolvedor <strong>FULL-STACK.</strong><br> 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px"> Atualmente estou aprendendo tecnologias e linguagens <strong>FRONT-END.</strong> <br>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px"> A caminhada é longa, mas sei que logo conseguirei minha primeira oportunidade na área.
 
 <div>  
   <br>
@@ -63,5 +63,6 @@
 </div>
 <br>
 
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Gif Mario no PC" align="center"></img>
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=EA1D2C&section=footer)
 
