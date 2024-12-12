@@ -30,6 +30,16 @@
 </div>
 
 ##
+
+| Coluna 1  |-----------|
+|-----------|-----------|
+| Dado 1    |<img height="40" src="https://skillicons.dev/icons?i=php,java,c,nodejs,express"/>|
+| Dado 1    |<img height="40" src="https://skillicons.dev/icons?i=html,css,js,figma,bootstrap"/>|
+| Dado 1    |<img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/>|
+| Dado 1    |<img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse"/>|
+| Dado 1    |<img height="40" src="https://skillicons.dev/icons?i=git,github"/>|
+| Dado 1    |<img height="40" src="https://skillicons.dev/icons?i=react,reactnative"/>|
+
 <div>
   <h3 align="left">Linguagens e ferramentas:</h3>
   <table align="left">
