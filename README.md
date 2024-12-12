@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=0e76a8)
+
 ![Viewes](https://komarev.com/ghpvc/?username=guioliveirx&color=008bed)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Olá!+👋;+Sou+Guilherme+Oliveira!;" />
@@ -61,5 +63,5 @@
 </div>
 <br>
 
-
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=EA1D2C&section=footer)
 
