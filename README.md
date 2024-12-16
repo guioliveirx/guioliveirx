@@ -33,7 +33,7 @@
 
 <div>
   <h3 align="left">Linguagens e ferramentas:</h3>
-  <table align="left">
+  <table>
 <tbody>
     <tr>
       <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</th>
@@ -61,11 +61,9 @@
     </tr>
   <tbody>
   </table>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="500px" width="400px" align="right">
 </div>
-<br>
 
-
+##
 <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Gif Mario no PC" align="center"></img>
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=EA1D2C&section=footer)
 
