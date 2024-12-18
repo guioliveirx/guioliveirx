@@ -37,11 +37,11 @@
 <tbody>
     <tr>
       <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</th>
-      <td><img height="40" src="https://skillicons.dev/icons?i=php,java,c,nodejs,express"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=c,php,java,nodejs,express"/></td>
     </tr>
     <tr>
       <th style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</th>
-      <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,figma,bootstrap"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma"/></td>
     </tr>
     <tr>
       <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</th>
