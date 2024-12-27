@@ -22,7 +22,7 @@
 
 ##
 
-<h3 align="left">Estatísticas:</h3>
+<h3 align="left">Statics:</h3>
 <div align="center">
   <a href="https://github.com/guioliveirx" align="left">
     <img height="185em" min-height="100em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guioliveirx&show_icons=true&locale=en&layout=compact&theme=shadow_red&text_color=ffffff&title_color=EA1D2C" alt="guioliveirx"/>
@@ -33,7 +33,7 @@
 ##
 
 <div>
-  <h3 align="left">Linguagens e ferramentas:</h3>
+  <h3 align="left">Languages & Tools:</h3>
   <table>
 <tbody>
     <tr>
