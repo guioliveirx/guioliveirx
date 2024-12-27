@@ -49,7 +49,7 @@
       <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
     </tr>
     <tr>
-      <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</th>
+      <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</th>
       <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse"/></td>
     </tr>
     <tr>
@@ -57,7 +57,7 @@
       <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
     </tr>
     <tr>
-      <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Aprendendo:</th>
+      <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Learning:</th>
       <td><img height="40" src="https://skillicons.dev/icons?i=react,next,tailwind"/></td>
     </tr>
   <tbody>
