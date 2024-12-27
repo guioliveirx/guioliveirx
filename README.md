@@ -58,7 +58,7 @@
     </tr>
     <tr>
       <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Aprendendo:</th>
-      <td><img height="40" src="https://skillicons.dev/icons?i=react,reactnative"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=react,next,tailwind"/></td>
     </tr>
   <tbody>
   </table>
