@@ -37,7 +37,7 @@
 <tbody>
     <tr>
       <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</th>
-      <td><img height="40" src="https://skillicons.dev/icons?i=java,nodejs,express"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=c,java,nodejs,express"/></td>
     </tr>
     <tr>
       <th style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</th>
