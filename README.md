@@ -45,7 +45,7 @@
     </tr>
     <tr>
       <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</th>
-      <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql"/></td>
     </tr>
     <tr>
       <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</th>
