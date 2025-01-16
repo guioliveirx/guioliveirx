@@ -41,7 +41,7 @@
     </tr>
     <tr>
       <th style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</th>
-      <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,figma"/></td>
     </tr>
     <tr>
       <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</th>
@@ -57,7 +57,7 @@
     </tr>
     <tr>
       <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Learning:</th>
-      <td><img height="40" src="https://skillicons.dev/icons?i=react,next,tailwind"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=react,next"/></td>
     </tr>
   <tbody>
   </table>
