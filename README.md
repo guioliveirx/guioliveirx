@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px"> O fascínio pelo `Front-Back` é a fonte da minha sede de aprendizagem e crescimento. <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px"> Almejo me tornar um desenvolvedor `FULL-STACK`. <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px"> Atualmente estou aprendendo tecnologias `FRONT-END`.<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px"> Atualmente estou aprendendo tecnologias `BACK-END`.<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px"> Com foco, determinação e constância nos estudos, alcançarei minha primeira oportunidade na área. É somente questão de tempo!
 
 <div>  
@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <th style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</th>
-      <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,figma"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,next,astro,figma"/></td>
     </tr>
     <tr>
       <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</th>
@@ -50,7 +50,7 @@
     </tr>
     <tr>
       <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</th>
-      <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse"/></td>
     </tr>
     <tr>
       <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</th>
@@ -58,7 +58,7 @@
     </tr>
     <tr>
       <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Learning:</th>
-      <td><img height="40" src="https://skillicons.dev/icons?i=react,next"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=cs,dotnet,azure"/></td>
     </tr>
   <tbody>
   </table>
