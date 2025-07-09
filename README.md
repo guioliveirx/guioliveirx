@@ -54,11 +54,11 @@
     </tr>
     <tr>
       <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</th>
-      <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=git,github,azure"/></td>
     </tr>
     <tr>
       <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Learning:</th>
-      <td><img height="40" src="https://skillicons.dev/icons?i=cs,dotnet,azure"/></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=cs,dotnet"/></td>
     </tr>
   <tbody>
   </table>
