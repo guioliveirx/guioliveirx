@@ -22,16 +22,6 @@
 
 ##
 
-<h3 align="left">Statics:</h3>
-<div align="center">
-  <a href="https://github.com/guioliveirx" align="left">
-    <img height="185em" min-height="100em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guioliveirx&show_icons=true&locale=en&layout=compact&theme=shadow_red&text_color=ffffff&title_color=EA1D2C" alt="guioliveirx"/>
-    <img height="185em" min-height="100em" src="https://github-readme-stats.vercel.app/api?username=guioliveirx&show_icons=true&locale=en&layout=compact&theme=shadow_blue&text_color=ffffff&title_color=0e76a8&rank_icon=github" alt="guioliverx"/>
-  </a>
-</div>
-
-##
-
 <div>
   <h3 align="left">Languages & Tools:</h3>
   <table>
